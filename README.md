@@ -3,11 +3,18 @@
 
 
 基本涵盖了在开发中用到的git命令，能满足日常需求。
+## Offen used
+```bash
 
-<center>
-<img src="https://xiejiahe.gitee.io/public/tomato-work/project-9.png" />
-</center>
+# 查看diff,<branch-name> 与本地分支的比较
+git diff <branch-name>
 
+# 查看分支来源和过程
+git reflog show <branch-name>
+
+# 图表查看提交记录
+git log --graph --pretty=oneline --abbrev-commit
+```
 
 ---
 # 目录
