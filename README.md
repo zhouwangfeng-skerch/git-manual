@@ -14,6 +14,16 @@ git reflog show <branch-name>
 
 # 图表查看提交记录
 git log --graph --pretty=oneline --abbrev-commit
+
+# 查看版本记录 
+git reflog
+
+# 回退本地版本
+git reset --hard Obfafd......
+
+# 本地版本回退之后，强制push 到远端
+git push -f 
+
 ```
 
 ---
