@@ -24,6 +24,9 @@ git reset --hard Obfafd......
 # 本地版本回退之后，强制push 到远端
 git push -f 
 
+# 修改提交时间
+git commit --date="May 7 9:05:20 2016 +0800" -am "提交"
+
 ```
 
 ---
