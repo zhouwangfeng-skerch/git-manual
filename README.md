@@ -1,6 +1,5 @@
 
 # Git常用命令参考手册 ![](https://img.shields.io/github/license/xjh22222228/git-manual)  [git-repo](https://github.com/xjh22222228/git-manual)
-git-demo
 
 基本涵盖了在开发中用到的git命令，能满足日常需求。
 ## Offen used
